@@ -6,6 +6,7 @@ import Foot from "./components/foot";
 export default function Home() {
   return (
     <>
+      <p></p>
       <Head />
       <Scripture />
       <Dates />
